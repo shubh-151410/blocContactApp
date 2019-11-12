@@ -22,7 +22,6 @@ class EmployeeBloc {
 
   List<Employee> _employeelist = [
     Employee(1, "Employee One", 10000.0),
-    Employee(1, "Employee Two", 10000.0),
     Employee(2, "Employee Three", 20000.0),
     Employee(3, "Employee Four", 30000.0),
     Employee(4, "Employee Five", 40000.0),
